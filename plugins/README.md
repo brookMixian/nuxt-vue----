@@ -1,5 +1,5 @@
 # PLUGINS
-
+我的第一个nuxt项目
 This directory contains your Javascript plugins that you want to run before instantiating the root vue.js application.
 
 More information about the usage of this directory in the documentation:
